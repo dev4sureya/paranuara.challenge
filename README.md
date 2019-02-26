@@ -8,10 +8,15 @@ New Features
 Your API must provides these end points:
 
 #Route1
+
 Given a company, the API needs to return all their employees. Provide the appropriate solution if the company does not have any employees.
+
 #Route2
+
 Given 2 people, provide their information (Name, Age, Address, phone) and the list of their friends in common which have brown eyes and are still alive.
+
 #Route3
+
 Given 1 people, provide a list of fruits and vegetables they like. This endpoint must respect this interface for the output: {"username": "Ahi", "age": "30", "fruits": ["banana", "apple"], "vegetables": ["beetroot", "lettuce"]}
 
 # Pre-requisties
