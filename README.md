@@ -24,7 +24,7 @@ Install github
 
 Install Docker
 
-Install Python
+Install Python 3.6
 
 # Deployment Instructions
 
@@ -35,6 +35,7 @@ cd paranuara.challenge
 docker-compose up
 
 # Test instructions for 3 routes
+
 # Route1
 curl -X GET http://localhost:5000/employees/<company_index>
 
