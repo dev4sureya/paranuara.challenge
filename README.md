@@ -28,7 +28,7 @@ Install Python
 
 # Deployment Instructions
 
-git clone 
+git clone https://github.com/dev4sureya/paranuara.challenge
 
 cd paranuara.challenge
 
